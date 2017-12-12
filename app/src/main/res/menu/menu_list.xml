@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Maps List"
+        android:id="@+id/listLocations"/>
+    <item android:title="Locations In Map"
+        android:id="@+id/LocationsInMap"/>
+</menu>
